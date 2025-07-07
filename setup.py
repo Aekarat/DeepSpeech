@@ -16,6 +16,7 @@ def main():
         'absl-py',
         'attrdict',
         'bs4',
+        'ds-ctcdecoder==0.9.3',
         'numpy',
         'optuna',
         'opuslib == 2.0.0',
